@@ -1,13 +1,15 @@
 SkyCast 🌤️
-SkyCast is a modern weather application built with React, leveraging the OpenWeather API to provide accurate and real-time weather forecasts.
+
+SkyCast is a modern weather application built with React, 
+leveraging the OpenWeather API to provide accurate and real-time weather forecasts.
 
 Features 🚀
 Search for a city: Get weather details for any location.
 Current weather: Displays temperature, weather conditions, and more.
 Detailed forecasts: View hourly or daily forecasts.
 User-friendly interface: Simple and responsive design for an enjoyable user experience.
-Technologies Used 🛠️
-React: A modern frontend framework for building the user interface.
+Technologies Used 🛠️React: 
+A modern frontend framework for building the user interface.
 OpenWeather API: The source for weather data.
 CSS/Tailwind (or another framework): Styling for a clean and modern look.
 How to Use 📖
